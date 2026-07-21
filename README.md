@@ -130,7 +130,15 @@ streamlit run app.py
 
 ## 📷 Dashboard
 
-> Add screenshots of your dashboard here after deployment.
+ <img width="945" height="839" alt="overview" src="https://github.com/user-attachments/assets/463753fd-2474-4a93-af08-1216d3994ffe" />
+ 
+<img width="1191" height="869" alt="model_performance" src="https://github.com/user-attachments/assets/0f288258-be11-4f26-948d-be425ce008f9" />
+
+<img width="934" height="719" alt="word_insights" src="https://github.com/user-attachments/assets/207a4063-0c33-480d-8d44-50b11f993c8b" />
+
+<img width="945" height="756" alt="prediction" src="https://github.com/user-attachments/assets/3ed6638a-3ffd-4564-bedf-33592ab86f90" />
+
+
 
 ---
 
