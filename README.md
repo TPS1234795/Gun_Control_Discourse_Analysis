@@ -2,6 +2,9 @@
 
 An AI-powered sentiment analysis dashboard that analyzes Reddit discussions on gun control using TF-IDF, Linear SVM, Streamlit, and Plotly.
 
+https://guncontroldiscourseanalysis-ep8mtuvgkypnz5hmfmdihc.streamlit.app/
+
+
 ---
 
 ## 📌 Project Overview
